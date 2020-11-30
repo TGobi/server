@@ -15,8 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="gd"
-run/main_scene="res://Node2D.tscn"
+config/name="Gd"
 config/icon="res://icon.png"
 
 [rendering]
